@@ -1,1 +1,1 @@
-<img>codeigniter.png</img>
+CodeIgniter.png
