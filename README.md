@@ -1,5 +1,5 @@
 # CodeIgniter
-version 3.2.1 custom
+version 3.2.0 custom
 
 
 
